@@ -43,7 +43,7 @@ cooperation, comradery, and professionalism throughout their community
 | Camping :tent:| Pears :pear:|
 
 ## :mailbox_closed: Contact Me ##
-You can reach me via [Email](mailto:admin@cloudhadoop.com) or can find me in the following: 
+You can reach me via [Email](mailto:elliotfayman@gmail.com) or can find me in the following: 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/elliotfayman) [![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elliot-fayman-5974a2202/)
 
