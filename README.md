@@ -8,6 +8,9 @@ California State University - Northridge. While I do not have any particular foc
 and machine learning. I have a passion for learning and more than anything, constantly strive for continuous growth and development.
 
 ## :stars: Skills 
+
+:computer: Web Developer Intern at Student Affairs IT in CSUN. Use ruby on rails in order to develop web applications.
+
 :robot: Subsystem Team leader of First robotics team 599 managing a diverse team of electrical, mechanical, and software engineers.
 
 :satellite: Cube Satellite Attitude Determination and Control Lead. Created and tuned a closed loop PID controller & Implemented a software 
