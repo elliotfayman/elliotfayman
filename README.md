@@ -4,7 +4,7 @@
 ## :rocket:	 About Me
 
 :mortar_board: I am Elliot Fayman, a college student pursuing a bachelor's degree in Computer Science at 
-California State University - Northridge. While I do not have any particular focus, I am interested in web development
+California State University - Northridge. While I do not have any particular focus, I am interested in web development, aerospace,
 and machine learning. I have a passion for learning and more than anything, constantly strive for continuous growth and development.
 
 ## :stars: Skills 
