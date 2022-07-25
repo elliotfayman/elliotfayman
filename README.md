@@ -9,9 +9,9 @@ and machine learning. I have a passion for learning and more than anything, cons
 
 ## :stars: Skills 
 
-:computer: Web Developer Intern at Student Affairs IT at CSUN. Use ruby on rails in order to develop web applications.
+:computer: Web Developer Intern at Student Affairs IT at CSUN. Use ruby on rails in order to develop web applications
 
-:robot: Subsystem Team leader of First robotics team 599 managing a diverse team of electrical, mechanical, and software engineers.
+:robot: Subsystem Team leader of First robotics team 599 managing a diverse team of electrical, mechanical, and software engineers
 
 :satellite: Cube Satellite Attitude Determination and Control Lead. Created and tuned a closed loop PID controller & Implemented a software 
 end low pass filter for a 6-axis IMU.
@@ -20,9 +20,9 @@ end low pass filter for a 6-axis IMU.
 
 :zap: Experience with electrical work including soldering, crimping, and wiring sensitive electrical components
 
-:racing_car: FSAE intern at CSU - Northridge. Implemented data collection and processing software for racing simulation rig.
+:racing_car: FSAE intern at CSU - Northridge. Implemented data collection and processing software for racing simulation rig
 
-:gear: Experience working with Computer Aided Design software like solidworks.
+:gear: Experience working with Computer Aided Design software like solidworks
 
 **Languages**
  - Java :coffee:
