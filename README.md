@@ -36,8 +36,6 @@ end low pass filter for a 6-axis IMU.
 **Dean's List Semi Finalist First Robotics:** Awarded to two high school students that have demonstrated teamwork, graciousness,
 cooperation, comradery, and professionalism throughout their community
 
-**Valedictorian:** Awarded to high school students that have demonstrated extraordinary academic excellence
-
 ## :ringed_planet: Fun Facts
 | Love :heavy_check_mark: | Hate :x: |
 | ----------- | ----------- |
