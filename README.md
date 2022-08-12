@@ -36,9 +36,12 @@ end low pass filter for a 6-axis IMU.
 **Dean's List Semi Finalist First Robotics:** Awarded to two high school students that have demonstrated teamwork, graciousness,
 cooperation, comradery, and professionalism throughout their community
 
-## My Stats
+## :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elliotfayman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotfayman&show_icons=true&theme=tokyonight)
+
 
 ## :ringed_planet: Fun Facts
 | Love :heavy_check_mark: | Hate :x: |
