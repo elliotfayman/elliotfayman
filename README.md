@@ -24,10 +24,10 @@ end low pass filter for a 6-axis IMU.
 :gear: Experience working with Computer Aided Design software like solidworks
 
 **Languages**
- - Java :coffee:
- - Python :snake:
- - Ruby :gem:
- - MIPS Assembly :floppy_disk:
+ - :coffee: Java
+ - :snake: Python
+ - :gem: Ruby
+ - :floppy_disk: MIPS Assembly
 
 
 
