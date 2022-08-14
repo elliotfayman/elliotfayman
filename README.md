@@ -60,4 +60,4 @@ You can reach me via [Email](mailto:elliotfayman@gmail.com) or can find me in th
 
 ---
  
- ### Check out my website at [elliotfayman.com](https://elliotfayman.com)
+ ### Check out my website at [elliotfayman.com &rarr;](https://elliotfayman.com)
