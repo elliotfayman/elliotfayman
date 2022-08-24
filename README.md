@@ -23,13 +23,6 @@ end low pass filter for a 6-axis IMU.
 
 :gear: Experience working with Computer Aided Design software like solidworks
 
-**Languages**
- - :coffee: Java
- - :snake: Python
- - :gem: Ruby
- - :floppy_disk: MIPS Assembly
-
-
 
 ## :trophy: Awards
 **Dean's List Semi Finalist First Robotics:** Awarded to two high school students that have demonstrated teamwork, graciousness,
