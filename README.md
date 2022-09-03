@@ -17,11 +17,8 @@ end low pass filter for a 6-axis IMU.
 
 :pencil2: Instructional Student Assistant for a biology based Calculas course. Tutor college students, participate in professional development meetings, and grade student classwork
 
-:zap: Experience with electrical work including soldering, crimping, and wiring sensitive electrical components
-
 :racing_car: FSAE intern at CSU - Northridge. Implemented data collection and processing software for racing simulation rig
 
-:gear: Experience working with Computer Aided Design software like solidworks
 
 
 ## :trophy: Awards
