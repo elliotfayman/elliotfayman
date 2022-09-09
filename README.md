@@ -9,7 +9,7 @@ and machine learning. I have a passion for learning and more than anything, cons
 
 ## :stars: Skills 
 
-:computer: Web Developer at Student Affairs IT at CSUN. Use ruby on rails in order to develop web applications
+:computer: Web Developer at Student Affairs IT at CSUN. Employ ruby on rails in order to develop and maintain web applications
 
 :robot: Subsystem Team leader of First robotics team 599 managing a diverse team of electrical, mechanical, and software engineers
 
