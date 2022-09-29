@@ -11,10 +11,10 @@ and machine learning. I have a passion for learning and more than anything, cons
 
 :computer: Web Developer at Student Affairs IT at CSUN. Employ ruby on rails in order to develop and maintain web applications
 
-:robot: Subsystem Team leader of First robotics team 599 managing a diverse team of electrical, mechanical, and software engineers
-
 :satellite: Cube Satellite Attitude Determination and Control Lead. Created and tuned a closed loop PID controller & Implemented a software 
 end low pass filter for a 6-axis IMU.
+
+:robot: Subsystem Team leader of First robotics team 599 managing a diverse team of electrical, mechanical, and software engineers
 
 :pencil2: Instructional Student Assistant for a biology based Calculas course. Tutor college students, participate in professional development meetings, and grade student classwork
 
