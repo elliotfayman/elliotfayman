@@ -31,9 +31,6 @@ cooperation, comradery, and professionalism throughout their community
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=elliotfayman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
 </a>
  <br><br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliotfayman&layout=compact&theme=tokyonight" />
-</a>
 
 
 
